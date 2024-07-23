@@ -84,7 +84,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_M",
-      "x": 10,
+      "x": 11,
       "y": 11,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_WANDER_AROUND",
@@ -175,14 +175,14 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_PSYCHIC_M",
-      "x": 3,
-      "y": 39,
+      "x": 12,
+      "y": 19,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "6",
+      "trainer_sight_or_berry_tree_id": "2",
       "script": "Route110_EventScript_Edward",
       "flag": "0"
     },
@@ -409,10 +409,10 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_YOUNGSTER",
-      "x": 33,
+      "x": 21,
       "y": 69,
       "elevation": 3,
-      "movement_type": "MOVEMENT_TYPE_FACE_LEFT_AND_RIGHT",
+      "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NORMAL",
@@ -422,14 +422,14 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_POKEFAN_F",
-      "x": 10,
-      "y": 76,
+      "x": 11,
+      "y": 72,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "2",
+      "trainer_sight_or_berry_tree_id": "3",
       "script": "Route110_EventScript_Isabel",
       "flag": "0"
     },
@@ -442,14 +442,14 @@
       "movement_range_x": 1,
       "movement_range_y": 1,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "2",
+      "trainer_sight_or_berry_tree_id": "3",
       "script": "Route110_EventScript_Kaleb",
       "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_CYCLING_TRIATHLETE_F",
-      "x": 10,
-      "y": 39,
+      "x": 16,
+      "y": 9,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
       "movement_range_x": 1,
@@ -497,6 +497,19 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "0x0",
       "flag": "FLAG_HIDE_ROUTE_110_BIRCH"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_EXPERT_F",
+      "x": 9,
+      "y": 11,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "Route104_EventScript_ExpertF",
+      "flag": "0"
     }
   ],
   "warp_events": [
