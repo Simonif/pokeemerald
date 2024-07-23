@@ -629,8 +629,8 @@
   "bg_events": [
     {
       "type": "sign",
-      "x": 15,
-      "y": 25,
+      "x": 24,
+      "y": 28,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "Route110_EventScript_VandalizedSign"
@@ -669,23 +669,23 @@
     },
     {
       "type": "sign",
-      "x": 3,
-      "y": 17,
+      "x": 8,
+      "y": 15,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "Route110_EventScript_MauvilleCitySign"
     },
     {
       "type": "secret_base",
-      "x": 16,
-      "y": 25,
+      "x": 22,
+      "y": 28,
       "elevation": 0,
       "secret_base_id": "SECRET_BASE_TREE3_1"
     },
     {
       "type": "secret_base",
-      "x": 17,
-      "y": 25,
+      "x": 23,
+      "y": 28,
       "elevation": 0,
       "secret_base_id": "SECRET_BASE_TREE4_1"
     },
